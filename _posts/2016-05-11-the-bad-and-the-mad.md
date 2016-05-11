@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: THE BAD AND THE MAD
-datePublished: '2016-05-11T17:46:12.622Z'
-dateModified: '2016-05-11T17:45:50.427Z'
+datePublished: '2016-05-11T17:57:00.850Z'
+dateModified: '2016-05-11T17:55:07.714Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-the-bad-and-the-mad.md
 authors: []
 publisher:
   name: null
@@ -16,10 +17,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-the-bad-and-the-mad.md
 url: the-bad-and-the-mad/index.html
 _type: Article
 
 ---
-THE BAD AND THE MAD
+> **THE BAD AND THE MAD**
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73cf6af-601c-4edf-9ac9-f8f8512761bd.png)
