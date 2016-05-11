@@ -1,5 +1,8 @@
+name: OGG FINAL DESTINATION
+favicon: null
+layout_spectrum: 0.72871
+typography_spectrum: 0.6191489
 title: THE WINGS TO PARADISE
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.75
-  rhythmicContrast: 0.75
   brandColors:
     - '#dfe3e5'
     - '#5893b3'
     - '#ec6267'
     - '#8aaec5'
     - '#f2bec5'
+  brandStrength: 0.75
   lightness: 0.125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: OGG FINAL DESTINATION
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6191489
-layout_spectrum: 0.1425532
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
