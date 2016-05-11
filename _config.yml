@@ -1,0 +1,28 @@
+name: OGG FINAL DESTINATION
+favicon: null
+layout_spectrum: 0.2748778078239411
+typography_spectrum: 0.043906798120588064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5842676986940205
+  lightness: 0.20243870746344328
+  saturation: 0.12427519611082971
+  rhythmicContrast: 0.6001414800994098
+purpose: []
