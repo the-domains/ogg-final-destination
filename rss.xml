@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OGG FINAL DESTINATION]]></title>
-        <description><![CDATA[OGG FINAL DESTINATION]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[THE WINGS TO PARADISE]]></title>
+        <description><![CDATA[THE WINGS TO PARADISE]]></description>
+        <link>https://thegrid.ai/ogg-final-destination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 11:50:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 12:05:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ogg-final-destination/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b4098e-bcea-4d7a-8256-4d96e6e3ec51.png">]]></description>
+            <link>https://thegrid.ai/ogg-final-destination/54dc844f-28ac-43cf-b8aa-bc33af431729/index.html</link>
+            <guid isPermaLink="false">54dc844f-28ac-43cf-b8aa-bc33af431729</guid>
+            <pubDate>Wed, 11 May 2016 12:04:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4fe661d-8355-4d98-a192-2ce721a6f45c.png">]]></description>
-            <link>undefined8ccb0ddc-cfc5-4c58-b24a-100a5be0f84c/index.html</link>
+            <link>https://thegrid.ai/ogg-final-destination/8ccb0ddc-cfc5-4c58-b24a-100a5be0f84c/index.html</link>
             <guid isPermaLink="false">8ccb0ddc-cfc5-4c58-b24a-100a5be0f84c</guid>
             <pubDate>Wed, 11 May 2016 11:50:16 GMT</pubDate>
         </item>
