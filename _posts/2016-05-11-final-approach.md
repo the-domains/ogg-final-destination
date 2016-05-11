@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T18:12:05.581Z'
-dateModified: '2016-05-11T18:10:59.014Z'
+datePublished: '2016-05-11T19:58:55.605Z'
+dateModified: '2016-05-11T19:55:39.356Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-11-final-approach.md
 authors: []
 publisher:
