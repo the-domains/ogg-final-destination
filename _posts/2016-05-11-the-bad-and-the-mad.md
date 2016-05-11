@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: THE BAD AND THE MAD
-datePublished: '2016-05-11T19:37:30.861Z'
-dateModified: '2016-05-11T19:34:59.445Z'
+datePublished: '2016-05-11T19:38:27.612Z'
+dateModified: '2016-05-11T19:37:37.480Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-the-bad-and-the-mad.md
