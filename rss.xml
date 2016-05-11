@@ -4,7 +4,7 @@
         <description><![CDATA[THE WINGS TO PARADISE]]></description>
         <link>https://thegrid.ai/ogg-final-destination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 17:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 17:34:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ogg-final-destination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PAN AM]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/ogg-final-destination/8ccb0ddc-cfc5-4c58-b24a-100a5be0f84c/index.html</link>
             <guid isPermaLink="false">8ccb0ddc-cfc5-4c58-b24a-100a5be0f84c</guid>
             <pubDate>Wed, 11 May 2016 17:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MauiGuidebook.com]]></title>
+            <description><![CDATA[<article><h1>MauiGuidebook.com</h1><p>Maui's Best Local Guidebook</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bde66e658f8cd9301e747da22986ae295078de2.jpg"></article>]]></description>
+            <link>http://mauiguidebook.com/</link>
+            <guid isPermaLink="false">ce7f7e02-ea5d-4162-a108-d5caae9abd3f</guid>
+            <pubDate>Wed, 11 May 2016 17:34:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
