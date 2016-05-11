@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: THE BAD AND THE MAD
-datePublished: '2016-05-11T19:27:22.007Z'
-dateModified: '2016-05-11T19:26:13.623Z'
+datePublished: '2016-05-11T19:28:05.658Z'
+dateModified: '2016-05-11T19:27:34.872Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-the-bad-and-the-mad.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: false
 url: the-bad-and-the-mad/index.html
-_type: Article
+_type: WebPage
 
 ---
 > **THE BAD AND THE MAD**
