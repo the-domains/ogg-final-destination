@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FINAL APPROACH
-datePublished: '2016-05-11T17:51:47.646Z'
-dateModified: '2016-05-11T17:51:28.598Z'
+datePublished: '2016-05-11T17:53:38.671Z'
+dateModified: '2016-05-11T17:53:30.044Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-11-final-approach.md
+starred: true
 url: final-approach/index.html
 _type: Article
 
