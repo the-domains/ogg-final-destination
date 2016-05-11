@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: THE BAD AND THE MAD
-datePublished: '2016-05-11T19:41:47.774Z'
-dateModified: '2016-05-11T19:41:26.560Z'
+datePublished: '2016-05-11T19:48:36.458Z'
+dateModified: '2016-05-11T19:42:46.384Z'
 title: ''
 author:
   - name: ''
@@ -23,6 +23,6 @@ url: the-bad-and-the-mad/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73cf6af-601c-4edf-9ac9-f8f8512761bd.png)
-
 > **THE BAD AND THE MAD**
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73cf6af-601c-4edf-9ac9-f8f8512761bd.png)
