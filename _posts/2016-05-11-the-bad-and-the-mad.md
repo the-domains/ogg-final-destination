@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "ssu des célèbres studios de production IDDH et Hanna Barbera, retrouvez chaque semaine un nouvel épisode des aventures fidèlement adaptées des albums cultes du cow-boy le plus célèbre du Far-West.   Avec par ordre d'entrée en selle : Jolly Jumper, les Dalton, Rantanplan... De l'action et de l'humour à vivre au triple galop !  En décembre 2016, Lucky Luke célébrera le soixante-dixième anniversaire de sa naissance. L’homme (qui ne tirait pas encore plus vite que son ombre) est en effet apparu pour la première fois au mois de décembre 1946 dans L’Almanach Spirou.  Bon anniversaire, Luke ! "
-datePublished: '2016-05-12T03:48:50.128Z'
-dateModified: '2016-05-12T03:48:21.706Z'
+description: THE BAD AND THE MAD
+datePublished: '2016-05-12T04:01:14.413Z'
+dateModified: '2016-05-12T03:59:53.604Z'
 title: Lucky Luke
 author:
   - name: ''
