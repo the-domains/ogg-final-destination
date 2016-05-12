@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: HE IS BAD AND MAD
-datePublished: '2016-05-12T04:59:32.216Z'
-dateModified: '2016-05-12T04:59:31.640Z'
+datePublished: '2016-05-12T14:35:20.944Z'
+dateModified: '2016-05-12T14:35:20.284Z'
 title: Lucky Luke
 author:
   - name: ''
