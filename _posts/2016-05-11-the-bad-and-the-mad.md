@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' HE IS BAD AND MAD'
-datePublished: '2016-05-12T18:10:45.447Z'
-dateModified: '2016-05-12T18:10:39.563Z'
+datePublished: '2016-05-12T18:20:13.385Z'
+dateModified: '2016-05-12T18:20:12.235Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: the-bad-and-the-mad/index.html
 _type: Article
 
