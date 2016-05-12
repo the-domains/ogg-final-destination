@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: HE IS BAD AND MAD
-datePublished: '2016-05-12T18:02:38.753Z'
-dateModified: '2016-05-12T18:02:32.127Z'
+datePublished: '2016-05-12T18:05:59.685Z'
+dateModified: '2016-05-12T18:02:47.531Z'
 title: ''
 author:
   - name: ''
