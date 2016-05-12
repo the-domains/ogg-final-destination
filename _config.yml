@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.1875
+  saturation: 1
   brandStrength: 1
-  rhythmicContrast: 0.5
+  lightness: 0.4872341
   brandColors:
     - '#E0DFD0'
     - '#B5AB8F'
     - '#1F1E17'
     - '#2766B4'
     - '#7EC631'
-  lightness: 0.5
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: OGG FINAL DESTINATION
+favicon: null
 opengraph:
   image: null
   type: null
