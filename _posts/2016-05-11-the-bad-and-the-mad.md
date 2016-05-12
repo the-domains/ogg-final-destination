@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: THE BAD AND THE MAD
-datePublished: '2016-05-12T04:01:14.413Z'
-dateModified: '2016-05-12T03:59:53.604Z'
+datePublished: '2016-05-12T04:16:33.185Z'
+dateModified: '2016-05-12T04:14:41.344Z'
 title: Lucky Luke
 author:
   - name: ''
