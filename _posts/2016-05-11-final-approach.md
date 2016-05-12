@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-11T19:58:55.605Z'
-dateModified: '2016-05-11T19:55:39.356Z'
+description: FINAL APPROACH
+datePublished: '2016-05-12T03:34:38.734Z'
+dateModified: '2016-05-12T03:32:27.324Z'
 title: ''
 author:
   - name: ''
@@ -23,4 +23,5 @@ url: final-approach/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/536b37bb-0f44-4415-9df5-9d4ebf6521c0.png)
+FINAL APPROACH
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e282193-79a7-4e69-9ce3-ccab7a45ed00.png)
