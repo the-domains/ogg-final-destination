@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: HE IS BAD AND MAD
-datePublished: '2016-05-12T14:35:20.944Z'
-dateModified: '2016-05-12T14:35:20.284Z'
-title: Lucky Luke
+datePublished: '2016-05-12T17:22:12.879Z'
+dateModified: '2016-05-12T17:21:19.162Z'
+title: ''
 author:
   - name: ''
     url: 'http://www.lucky-luke.com/fr/'
@@ -23,6 +23,6 @@ url: the-bad-and-the-mad/index.html
 _type: Article
 
 ---
-> **THE BAD AND THE MAD**
+> _**HE IS BAD AND MAD**_
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c73cf6af-601c-4edf-9ac9-f8f8512761bd.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b12e40-7d4e-49c4-a0f3-d43b0616c010.png)
