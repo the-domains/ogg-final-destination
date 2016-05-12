@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: HE IS BAD AND MAD
-datePublished: '2016-05-12T18:05:59.685Z'
-dateModified: '2016-05-12T18:02:47.531Z'
+description: ' HE IS BAD AND MAD '
+datePublished: '2016-05-12T18:08:32.494Z'
+dateModified: '2016-05-12T18:07:26.960Z'
 title: ''
 author:
   - name: ''
@@ -23,6 +23,5 @@ url: the-bad-and-the-mad/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b12e40-7d4e-49c4-a0f3-d43b0616c010.png)
-
-> _**HE IS BAD AND MAD**_
+_**HE IS BAD AND MAD**_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cd0b2ac-758c-4b2f-9c41-4c4025797c92.png)
