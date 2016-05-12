@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T17:41:50.805Z'
-dateModified: '2016-05-12T17:41:45.371Z'
+datePublished: '2016-05-12T18:16:32.558Z'
+dateModified: '2016-05-12T18:16:20.045Z'
 title: ''
 author:
   - name: ''
@@ -23,4 +23,4 @@ url: final-approach/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4054d3b2-103e-4ac3-9b13-a82150dc7043.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ac927721441fd18f7e110887921fff8648dea3e.png)
