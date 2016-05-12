@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: FINAL APPROACH
-datePublished: '2016-05-12T03:34:38.734Z'
-dateModified: '2016-05-12T03:32:27.324Z'
+datePublished: '2016-05-12T04:01:08.500Z'
+dateModified: '2016-05-12T03:55:53.814Z'
 title: ''
 author:
   - name: ''
@@ -23,5 +23,4 @@ url: final-approach/index.html
 _type: Article
 
 ---
-FINAL APPROACH
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e282193-79a7-4e69-9ce3-ccab7a45ed00.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/faafd5f5dfa8889a291851cb2d2c595e25a26e0f.png)
