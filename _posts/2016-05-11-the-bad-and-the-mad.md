@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' HE IS BAD AND MAD'
-datePublished: '2016-05-14T18:32:44.032Z'
-dateModified: '2016-05-14T18:32:43.353Z'
+datePublished: '2016-05-14T18:37:32.691Z'
+dateModified: '2016-05-14T18:36:35.027Z'
 title: The Lucky
 author:
   - name: ''
@@ -23,5 +23,6 @@ url: and-the-luke/index.html
 _type: Article
 
 ---
-_**HE IS BAD AND MAD**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cd0b2ac-758c-4b2f-9c41-4c4025797c92.png)
+
+_**HE IS BAD AND MAD**_
