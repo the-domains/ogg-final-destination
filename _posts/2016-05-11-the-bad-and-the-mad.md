@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' HE IS BAD AND MAD'
-datePublished: '2016-05-15T03:24:44.216Z'
-dateModified: '2016-05-15T03:24:38.108Z'
+datePublished: '2016-05-15T03:25:57.243Z'
+dateModified: '2016-05-15T03:25:14.754Z'
 title: The Lucky
 author:
   - name: ''
